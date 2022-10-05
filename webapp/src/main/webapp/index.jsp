@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h2> IT WONT PUSH </h2> 
+   <h2> WELL IT HAS PUSHED </h2> 
   
 </form>
